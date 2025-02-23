@@ -2,7 +2,7 @@
 
 
 ## Overview
-The **Websearch Agent** is a application built using **Streamlit** and **LangChain** that interacts with users, processes queries, and provides AI-generated responses. It also includes **web search functionality** using Tavily API to retrieve relevant information when needed.
+The **Websearch Agent** is a application built using **Streamlit**, **LangChain** and **LangGraph** that interacts with users, processes queries, and provides AI-generated responses. It also includes **web search Agent** using Tavily API to retrieve relevant information when needed.
 
 ## Features
 - **Conversational AI**: Uses OpenAI's GPT models to generate responses.
