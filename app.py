@@ -52,7 +52,7 @@ def main():
     # Add a clear chat button
     if st.button("Clear Chat"):
         st.session_state.messages = []
-        st.experimental_rerun()
+        st.experimental_user()
 
 if __name__ == "__main__":
     main()

@@ -73,4 +73,6 @@ $ streamlit run app.py
 - **LangGraph**: Used for structured conversational flows.
 
 
+## UI Screenshots
 
+![Front Page](static/images/sc.png)
